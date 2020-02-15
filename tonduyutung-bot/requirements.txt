@@ -1,0 +1,6 @@
+python-telegram-bot
+requests
+axju-jokes
+urbandictionary
+chatterbot
+chatterbot-corpus

@@ -1,0 +1,8 @@
+2020-01-09 12:42:00,351 : CRITICAL : set_logger : Fatal error. Cannot continue in file1
+2020-01-09 12:42:00,351 : CRITICAL : set_logger : Fatal error. Cannot continue in file1
+2020-01-09 12:42:00,353 : CRITICAL : set_logger : Fatal error. Cannot continue in file2
+2020-01-09 12:42:00,353 : CRITICAL : set_logger : Fatal error. Cannot continue in file2
+2020-01-20 21:18:46,757 : CRITICAL : set_logger : Fatal error. Cannot continue in file1
+2020-01-20 21:18:46,757 : CRITICAL : set_logger : Fatal error. Cannot continue in file1
+2020-01-20 21:18:46,759 : CRITICAL : set_logger : Fatal error. Cannot continue in file2
+2020-01-20 21:18:46,759 : CRITICAL : set_logger : Fatal error. Cannot continue in file2

@@ -1,0 +1,6 @@
+/venv/
+/logs/*.log
+/features/__pychache__/
+/db.sqlite3
+/sentence_tokenizer.pickle
+/token.txt
